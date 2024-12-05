@@ -29,7 +29,7 @@ frontend:
     "name": "阿鲁",
     "path": "aru",
     "prefix": "aru-",
-    "baseUrl": "https://emotion-new.acs.pw/aru/image",
+    "baseUrl": "https://cdn.jsdelivr.net/gh/SakurajimMai/emotion_generate/dist/aru/image",
     "twikoo": {
       "name": `阿鲁`
     },
@@ -45,16 +45,16 @@ frontend:
 那么远程链接使用的对应文件路径如下：
 
 ```
-https://emotion-new.acs.pw/aru/valine.json
-https://emotion-new.acs.pw/aru/artalk.json
-https://emotion-new.acs.pw/aru/twikoo.json
-https://emotion-new.acs.pw/aru/discuss.json
-https://emotion-new.acs.pw/aru/info.json // waline 寻找 info.json 文件
+https://cdn.jsdelivr.net/gh/SakurajimMai/emotion_generate/dist/aru/valine.json
+https://cdn.jsdelivr.net/gh/SakurajimMai/emotion_generate/dist/aru/artalk.json
+https://cdn.jsdelivr.net/gh/SakurajimMai/emotion_generate/dist/aru/twikoo.json
+https://cdn.jsdelivr.net/gh/SakurajimMai/emotion_generate/dist/aru/discuss.json
+https://cdn.jsdelivr.net/gh/SakurajimMai/emotion_generate/dist/aru/info.json // waline 寻找 info.json 文件
 ```
 
 
 
-> `https://emotion-new.acs.pw`此域名为我个人的静态服务绑定的域名。
+> `https://cdn.jsdelivr.net/gh/SakurajimMai/emotion_generate/dist/aru`此域名为我个人的静态服务绑定的域名。
 
 ## 自己使用
 
